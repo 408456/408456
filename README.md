@@ -1,7 +1,9 @@
 ## `ITMO`
-I am Gleb, a first-year student at ITMO University, faculty[[762]](https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:102794578513269::NO:RP:BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:92885,1,) of Software Engineering and Computer Systems, department of Neurotechnology and Programming
-
 You can find me in the telegram: https://t.me/dozdevoy
+
+#### `Algorithms and data structures. Academic difference`
+
+#### `Database design. Academic difference`
 
 #### `Java programming`
 
