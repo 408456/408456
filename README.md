@@ -2,6 +2,7 @@
 You can find me in the telegram: https://t.me/dozdevoy
 
 #### `Algorithms and data structures. Academic difference`
+[The first semester](https://github.com/408456/Algorithms)
 
 #### `Database design. Academic difference`
 
